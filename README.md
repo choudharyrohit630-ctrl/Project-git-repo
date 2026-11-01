@@ -13,8 +13,3 @@ I am a student at UGSOT,currently learning Git and Github
 ## Projects
 
 - Git project repo: learning git hub commands
-
-## Social Links
-
-- Github: Rohitchoudhary630
-- Linkedin: rohitchoudhary
