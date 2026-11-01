@@ -13,3 +13,7 @@ I am a student at UGSOT,currently learning Git and Github
 ## Projects
 
 - Git project repo: learning git hub commands
+
+## Contact
+
+- Email: your-email@example.com
